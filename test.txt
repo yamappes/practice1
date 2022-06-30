@@ -3,3 +3,8 @@
 さらに文を追加しました。
 
 This is a pen.
+
+def my_add(a, b):
+    return a + b
+
+print(10, 20)
