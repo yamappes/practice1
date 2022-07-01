@@ -26,3 +26,7 @@ def my_div(a, b):
     return a / b
 
 print(10, 2)
+
+#from line no29 new func added
+def hiku(a, b):
+	return a - b
