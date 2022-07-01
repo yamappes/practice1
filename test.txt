@@ -14,4 +14,3 @@ def my_sub(a, b):
     return a - b
 
 print(my_sub(10, 5))
-
